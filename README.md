@@ -14,7 +14,7 @@ HTML, CSS y JavaScript sin frameworks ni dependencias. No necesita compilación:
 index.html        Contenido y estructura de la página
 styles.css        Estilos (paleta de marca, diseño adaptable, modo de alto contraste)
 lp-massiel.js     Generador del primer mensaje, barra fija en móvil, medición de clics
-img/              Retrato, monograma, favicon, imagen para compartir y piezas del portafolio
+img/              Retrato, monograma, favicon, imagen para compartir e imagen del proyecto
 ```
 
 ## Secciones
